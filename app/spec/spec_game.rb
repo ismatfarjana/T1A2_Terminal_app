@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../game'
 
 RSpec.describe Game do
@@ -5,7 +7,6 @@ RSpec.describe Game do
 
   describe '#rounds' do
     it 'returns rounds number' do
-      
       expect(game.rounds).to eq(3)
     end
   end
@@ -27,11 +28,9 @@ RSpec.describe Game do
   end
 
   describe '#reduce_round' do
-    it 'reduce round number and returns updated round number when round is used on game' do
-      
+    it 'reduce round number' do
       game.reduce_round
       expect(game.rounds).to eq(2)
     end
   end
 end
-
