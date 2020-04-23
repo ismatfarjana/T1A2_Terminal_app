@@ -1,18 +1,18 @@
+# frozen_string_literal: true
+
 require_relative '../player'
 
 RSpec.describe Player do
-  let(:player) { Player.new(name: 'Isabela', sign: 'X') } 
+  let(:player) { Player.new(name: 'Isabela', sign: 'X') }
 
   describe '#name' do
     it 'returns players name' do
-
       expect(player.name).to eq('Isabela')
     end
   end
 
   describe '#sign' do
     it 'returns players sign' do
-
       expect(player.sign).to eq('X')
     end
   end
@@ -32,6 +32,4 @@ RSpec.describe Player do
       end
     end
   end
-
 end
-
