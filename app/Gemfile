@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-ruby RUBY_VERSION
+ruby 2.6.3
 
 gem 'colorize'
 gem 'rspec'
 gem 'rubocop'
+gem 'lolcat'
+gem 'terminal-table'

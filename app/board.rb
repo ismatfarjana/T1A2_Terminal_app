@@ -31,6 +31,7 @@ class Board
 
   # it prints a board with sign on the terminal
   def display
+    system('clear')
     border
     puts row_with_places(place(1), place(2), place(3))
     puts line
@@ -46,7 +47,6 @@ class Board
   def place_sign(sign:, position:)
     # app will rescue this error
     # raise ArgumentError unless places[position - 1] == ''
-
     places[position - 1] = Place.new(sign: sign, position: position)
   end
 
@@ -56,6 +56,17 @@ class Board
     WINNING_PATTERNS.map do |winning_pattern|
       winning_pattern - sign_holding_places(sign: sign)
     end.include?([])
+  end
+
+  # @return [Array<Numeric>]
+  def available_places
+    sign_holding_places(sign: '')
+  end
+
+  # when board has empty place,
+  # when board doesn't have a winner
+  def continue_round?(player:, computer:)
+    !available_places.empty? && !winning_pattern?(sign: player.sign) && !winning_pattern?(sign: computer.sign)
   end
 
   private
@@ -78,7 +89,7 @@ class Board
 
   def border
     puts ''
-    puts '*' * 24
+    puts '🔥' * 24
     puts ''
   end
 
