@@ -45,7 +45,7 @@ sleep 1
 puts '
 █░█ █
 █▀█ █'.colorize(:light_green)
-puts 'Wʜᴀᴛ ɪs ʏᴏᴜʀ ɴᴀᴍᴇ?'.colorize(:light_green)
+print 'Wʜᴀᴛ ɪs ʏᴏᴜʀ ɴᴀᴍᴇ? : '.colorize(:light_green)
 name = gets.chomp.capitalize
 player = Player.new(name: name, sign: '❎')
 computer = Player.new(name: 'Bot', sign: '⭕')
