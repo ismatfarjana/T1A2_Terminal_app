@@ -303,6 +303,13 @@ Game will not start untill valid arrgument is passed 🚫
 
 ![](https://i.imgur.com/UTjR1GT.jpg)
 
+- [x] Total 9 branches added to github in this one week.
+
+![](https://i.imgur.com/vT8Hm3h.png)
+
+
+![](https://i.imgur.com/QMegpRi.png)
+
 updated trello
 
 ![](https://i.imgur.com/MyYd4qQ.jpg)
