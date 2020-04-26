@@ -190,15 +190,15 @@ Game will not start untill valid arrgument is passed 🚫
 ---
 ### **DAY 1 (20 April) 😎**
 
-- [x]The Assessment was published.
-- [x]Thinking and and narrowing down my ideas of projects.
-- [x]Learnt about trello and how to use it.
-- [x]Built my first trello board. 
-- [x]Added few lists and cards
+- [x] The Assessment was published.
+- [x] Thinking and and narrowing down my ideas of projects.
+- [x] Learnt about trello and how to use it.
+- [x] Built my first trello board. 
+- [x] Added few lists and cards
 
 ![](https://i.imgur.com/factNnR.jpg)
 
-- [x]Listed my ideas in one card
+- [x] Listed my ideas in one card
 
 ![](https://i.imgur.com/Q88WEyH.jpg)
 
@@ -206,31 +206,31 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 2 (21 April) 🧐**
 
-- [x]Finalized idea tic-tac-toe for my project. 
-- [x]Scratched a game flow chart to make it reasonably working
+- [x] Finalized idea tic-tac-toe. 
+- [x] Scratched a game flow chart to make it reasonably working
 
 ![](https://i.imgur.com/vrt6gSS.png)
 
 
 ### **DAY 3 (22 April) 🧐**
 
-- [x]Accoding to the requirements of the asessmnet created an empty directory and a github repository.
+- [x] Accoding to the requirements of the asessmnet created an empty directory and a github repository.
 
 ![](https://i.imgur.com/aK1i9XV.png)
 
-- [x]Created README file to start writting down 
+- [x] Created README file to start writting down 
 
 ![](https://i.imgur.com/2Z6HjUD.png)
 
-- [x]Created new branch in github for player
+- [x] Created new branch in github for player
 
 ![](https://i.imgur.com/QEEo80r.png)
 
-- [x]Added  rspec Gemfile
+- [x] Added  rspec Gemfile
 
 ![](https://i.imgur.com/sfzBvvb.png)
 
-- [x]Created Scratch game board
+- [x] Created Scratch game board
 
 ![](https://i.imgur.com/DqdTRMn.png)
 
@@ -238,8 +238,8 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 4 (23 April) 🧐**
 
-- [x]Keep updating my planning and keeping record of it in trello.
-- [x]Created diffrent branches and wrote code for each features:
+- [x] Keep updating my planning and keeping record of it in trello.
+- [x] Created diffrent branches and wrote code for each features:
 > player class and tests : Model
 > leaderboard class and tests : Model
 > operator class : Veiw and Controller
@@ -251,36 +251,36 @@ Game will not start untill valid arrgument is passed 🚫
 
 ![](https://i.imgur.com/Y6RYEAz.jpg)
 
-- [x]Feature includes
+- [x] Feature includes
 > methods according to requirements
 > tests for methods
 
 ![](https://i.imgur.com/CBRBqT2.jpg)
 
-- [x]Gem installed
+- [x] Gem installed
 
 ![](https://i.imgur.com/xKmY4vM.png)
 
-- [x]Add developer log to trello.
+- [x] Add developer log to trello.
 
 ![](https://i.imgur.com/G3QF61q.jpg)
 
 
 ### **DAY 5 (24 April) 🤓**
 
-- [x]Created a colorful welcome message using [https://fsymbols.com/emoji/](https://) and `lolcat` gem
+- [x] Created a colorful welcome message using [https://fsymbols.com/emoji/](https://) and `lolcat` gem
 
 ![](https://i.imgur.com/SrBURiZ.png)
 
-- [x]Keep modifying my trello board with information.
+- [x] Keep modifying my trello board with information.
 
 ![](https://i.imgur.com/n7QMSsJ.jpg)
 
-- [x]Improved code to run the game for first time to check if it works as expected. At this point it was supposed to take signs from user and place it in the board.
+- [x] Improved code to run the game for first time to check if it works as expected. At this point it was supposed to take signs from user and place it in the board.
 
 ![](https://i.imgur.com/S3S63PA.png)
 
-- [x]Added loop to finish the round and show the result
+- [x] Added loop to finish the round and show the result
 
 ![](https://i.imgur.com/sYnK2Mf.png)
 
@@ -288,7 +288,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 6 (25 April) 😅**
 
-- [x]Improving code to fix the errors.Like, for the last place I couldnot enter the place number because it was returning empty string. FIXED IT.
+- [x] Improving code to fix the errors.Like, for the last place I couldnot enter the place number because it was returning empty string. FIXED IT.
 
 ![](https://i.imgur.com/0pepbTP.png)
 
@@ -299,7 +299,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 7 (26 April) 😅**
 
-- [x]Made peresentation file, finised readme file.
+- [x] Made peresentation file, finised readme file.
 
 ![](https://i.imgur.com/UTjR1GT.jpg)
 
@@ -346,9 +346,9 @@ updated trello
 | Improving Features | 
 | ------------------ | 
 | * Making code DRY |
-| * Implement Module instead of class |
+| * Implement Module |
 | * Implement a log in and Database system to save multiple players  scores in leaderboard |
-| * Add some more test |
+| * Add more test coverage|
    
 
 ---
