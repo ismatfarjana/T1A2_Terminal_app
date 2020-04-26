@@ -206,7 +206,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 2 (21 April) 🧐**
 
-- [x]Finalized idea tic-tac-toe. 
+- [x]Finalized idea tic-tac-toe for my project. 
 - [x]Scratched a game flow chart to make it reasonably working
 
 ![](https://i.imgur.com/vrt6gSS.png)
