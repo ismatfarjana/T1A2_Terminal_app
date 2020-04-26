@@ -309,8 +309,10 @@ updated trello
 
 ---
 
-**Github link:**
-[https://github.com/ismatfarjana/T1A2_Terminal_app](https://)
+
+[**Github link**](https://github.com/ismatfarjana/T1A2_Terminal_app)
+[**Trello link**](https://trello.com/invite/b/VOiw1zfE/c063a538e570dbca0f034cb9d0aa836c/termnalapp-tic-tac-toe/)
+[**Lucid chart**](https://www.lucidchart.com/invitations/accept/1f045cbe-8d17-4de9-a375-5b8d76e5260d/)
 ---
 # ♣ **Testing and Bug fixing** 🐛🐞🔫
 
