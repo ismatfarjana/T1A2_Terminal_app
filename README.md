@@ -3,9 +3,9 @@
 ---
 
 # README
-# 📓🔨 **Development story**
+# ♣ **Development story**📓🔨
 ---
-### **:memo: List of ideas**  
+### **♣:memo: List of ideas**  
 ---
 *💡= idea, 🔵= description,  🍎= reason for not selecting, 🍏= reason for selecting*
 
@@ -43,7 +43,7 @@
         
 
 ---
-#  📜 **About The project 🤔**
+# ♣ 📜 **About The project 🤔**
 ---
 ####  💁🏻 What is it❓
 
@@ -61,6 +61,7 @@
 🗣 
 **User needs to follow the instructions below**
    **To start this project ⬇**
+   ---
 * Open terminal on computer. 💻🖥
 * The prerequisite of this project is to have `ruby` installed in computer. 
 * If `ruby` is not installed go to this link to find instructions of how to install ruby.
@@ -71,6 +72,7 @@ https://www.ruby-lang.org/en/documentation/installation/?fbclid=IwAR1MkBp39ufIWm
 * Run `git clone git@github.com:ismatfarjana/T1A2_Terminal_app.git` 
 * Nevigate to the file by entering `cd 
 T1A2_Terminal_app/src` 
+* Run `bundle install` to install all the `gem`
 * Run the file by typing in this pattern `ruby tic_tac_toe.rb <number of rounds>`
 * `<number of rounds>` is the number of **total round** user wants to play the game.
 
@@ -80,7 +82,8 @@ T1A2_Terminal_app/src`
 
 ####  💁🏻 What user is going to experience through the process of the project❓
 
-🗣
+🗣 **USER EXPERIENCE ✌**
+---
 * Hitting the enter button will show a **WELCOME** 💐 message and and the program will ask users **name**.😎
 
 * After entering a number each time, **Bot** will take turn and this circle will go on `loop` 🔄 untill the **number of round** is finished.
@@ -99,7 +102,6 @@ T1A2_Terminal_app/src`
 
 :pushpin: 
 ![](https://i.imgur.com/AKUNHwL.png)
-:::
 
 #### 🖼️ 💁 Returning **WELCOME** message with question asking users name. 
 :pushpin: 
@@ -107,7 +109,7 @@ T1A2_Terminal_app/src`
 
 
 #### 🖼️ 💁The program shows the hard coded sign chossen for each player: 
-## USER(⛹️) Vs Bot(🤖)
+**USER(⛹️) Vs Bot(🤖)**
 :pushpin: 
 ![](https://i.imgur.com/nHoaUsQ.png)
 
@@ -153,6 +155,11 @@ Game will not start untill valid arrgument is passed 🚫
 ![](https://i.imgur.com/asaMC3J.png)
 
 #### Once the right valid arrgument is passed, the game will start with the WELCOME 💐 message :pancakes: 
+ 
+ **♣ CHECK FOR INPUT DATA TYPE**
+- [x] Value greater then `0`
+- [x] Not a `string`
+- [x] Not a `boolean`
 
 ## 🕹
 #### While choosing the places, if player enter any place number which is already taken request for choosing another available place number will show up untill the number place is **available/ valid input**
@@ -160,6 +167,11 @@ Game will not start untill valid arrgument is passed 🚫
 ![](https://i.imgur.com/9cwzs99.png)
 
 #### Game will run smoothly after valid input is given 🚄
+
+ **♣ CHECK FOR INPUT DATA TYPE**
+ - [x] Value greater then `0` & less then `10`
+- [x] Not a `string`
+- [x] Not a `boolean`
 ---
 
 
@@ -174,31 +186,170 @@ Game will not start untill valid arrgument is passed 🚫
 
 
 # ♣  **Project management plan  🚧**
-> day to day work with terminal screen shots and trello[name=Syeda Ismat Farjana]
+> day to day work with terminal screen shots and trello
 ---
-### DAY 1
+### **DAY 1 (20 April) 😎**
 
-### DAY 2
+- [x]The Assessment was published.
+- [x]Thinking and and narrowing down my ideas of projects.
+- [x]Learnt about trello and how to use it.
+- [x]Built my first trello board. 
+- [x]Added few lists and cards
 
-### DAY 3
+![](https://i.imgur.com/factNnR.jpg)
 
-### DAY 4
+- [x]Listed my ideas in one card
 
-### DAY 5
+![](https://i.imgur.com/Q88WEyH.jpg)
 
-### DAY 6
 
+
+### **DAY 2 (21 April) 🧐**
+
+- [x]Finalized idea tic-tac-toe. 
+- [x]Scratched a game flow chart to make it reasonably working
+
+![](https://i.imgur.com/vrt6gSS.png)
+
+
+### **DAY 3 (22 April) 🧐**
+
+- [x]Accoding to the requirements of the asessmnet created an empty directory and a github repository.
+
+![](https://i.imgur.com/aK1i9XV.png)
+
+- [x]Created README file to start writting down 
+
+![](https://i.imgur.com/2Z6HjUD.png)
+
+- [x]Created new branch in github for player
+
+![](https://i.imgur.com/QEEo80r.png)
+
+- [x]Added  rspec Gemfile
+
+![](https://i.imgur.com/sfzBvvb.png)
+
+- [x]Created Scratch game board
+
+![](https://i.imgur.com/DqdTRMn.png)
+
+![](https://i.imgur.com/i28qN8j.png)
+
+### **DAY 4 (23 April) 🧐**
+
+- [x]Keep updating my planning and keeping record of it in trello.
+- [x]Created diffrent branches and wrote code for each features:
+> player class and tests : Model
+> leaderboard class and tests : Model
+> operator class : Veiw and Controller
+> board class and tests : Model
+> game class and tests : Model
+> place class and tests : Model
+> tic_tac_toe.rb file : View and Controller
+
+
+![](https://i.imgur.com/Y6RYEAz.jpg)
+
+- [x]Feature includes
+> methods according to requirements
+> tests for methods
+
+![](https://i.imgur.com/CBRBqT2.jpg)
+
+- [x]Gem installed
+
+![](https://i.imgur.com/xKmY4vM.png)
+
+- [x]Add developer log to trello.
+
+![](https://i.imgur.com/G3QF61q.jpg)
+
+
+### **DAY 5 (24 April) 🤓**
+
+- [x]Created a colorful welcome message using [https://fsymbols.com/emoji/](https://) and `lolcat` gem
+
+![](https://i.imgur.com/SrBURiZ.png)
+
+- [x]Keep modifying my trello board with information.
+
+![](https://i.imgur.com/n7QMSsJ.jpg)
+
+- [x]Improved code to run the game for first time to check if it works as expected. At this point it was supposed to take signs from user and place it in the board.
+
+![](https://i.imgur.com/S3S63PA.png)
+
+- [x]Added loop to finish the round and show the result
+
+![](https://i.imgur.com/sYnK2Mf.png)
+
+
+
+### **DAY 6 (25 April) 😅**
+
+- [x]Improving code to fix the errors.Like, for the last place I couldnot enter the place number because it was returning empty string. FIXED IT.
+
+![](https://i.imgur.com/0pepbTP.png)
+
+- [x] Keep fixing the open ends of my game, all information is in my trello board and files are available in my github repository.
+
+![](https://i.imgur.com/z3sHAqZ.jpg)
+
+
+### **DAY 7 (26 April) 😅**
+
+- [x]Made peresentation file, finised readme file.
+
+![](https://i.imgur.com/UTjR1GT.jpg)
+
+updated trello
+
+![](https://i.imgur.com/MyYd4qQ.jpg)
+
+---
+
+**Github link:**
+[https://github.com/ismatfarjana/T1A2_Terminal_app](https://)
 ---
 # ♣ **Testing and Bug fixing** 🐛🐞🔫
 
+## Player
+
+- Added unit tests to test player's name, sign and scores to be persisted and updated during a game.
+- Tested player's scores start with 0.
+
+## Game
+
+- Added unit tests to test Game to provide number of rounds left to finish the game and update rounds when players finish a round.
+
+## Place
+
+- Added unit tests to test place position and sign on the board.
+
+## Board
+
+- Added unit tests to test board has enough places.
+- Tested that board can place player sign when a player choose a place
+- Tested that board can calculate winning pattern when a player has one.
+
+## Leaderboard
+
+- Added unit tests to test loeaderboard returns sorted players list based on their scores.
+- Tested that leaderboard returns winner's name.
+- Tested that leaderboard returns a winner when there is a winner.
 ---
 # **♣ Improvement plan** 🔧⚙️
 
 
+
+| Improving Features | 
+| ------------------ | 
+| * Making code DRY |
+| * Implement Module instead of class |
+| * Implement a log in and Database system to save multiple players  scores in leaderboard |
+| * Add some more test |
    
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
 ---
+🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
