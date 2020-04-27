@@ -326,6 +326,8 @@ updated trello
 ---
 # ♣ **Testing and Bug fixing** 🐛🐞🔫
 
+## ♠ Unit Test
+
 ## Player
 
 - Added unit tests to test player's name, sign and scores to be persisted and updated during a game.
@@ -351,6 +353,27 @@ updated trello
 - Added unit tests to test leaderboard returns sorted players list based on their scores.
 - Tested that the leaderboard returns the winner's name.
 - Tested that leaderboard returns a winner when there is a winner.
+
+## ♠ Manual test
+
+
+
+| Feature | Description | Expected Outcome | Actual Outcome | Note |
+| -------- | -------- | -------- | -------- | -------- |
+| Welcome screen    | The name of the game    | The name of game with emojis and fancy fonts     | As expected    |  fancy fonts created by using [fsymbols](//fsymbols.com/generators//)    |
+| Number of rounds ➡ given while running the app | Welcome message | Customized welcome message for user | As expected | n/a |
+| Number of rounds ➡ not given while running the app | Request for entering the number of rounds | Holding the game on pause until valid input is given | As expected | number of round must be `>= 0` |
+| Choose a place on the board | Enter the number for placing sign on the board | To mark that place on the board with users sign | As expected | number for place must be `1<= number <= 9` |
+| Place availability | Checks if given number place is available or not | Holds the game on pause and asks to choose valid input | As expected |  Coosen numbered must be available on board  |
+| Detecting Round winner | Finds out the winner for corresponding round if it is not a Draw | Announcement of winners name or Draw | As expected | n/a |
+|  Displaying leaderboard | Display the name of players with overall scores | Table with players name and scores inside it | As expected | n/a |
+| Detecting game winner | Finding out the name of the winner | Announcement of the name of the winner | As expected | If the game is a Draw, Draw announcemnet is shown |
+| Game over | Game over message shown | Game over message with fancy font | As expected | n/a |
+| Restart game | Options given to restart the game or not  | Asks if player wants to restart the game | Restarts the game | option y to restart the game |
+| Quit game | Options given to restart the game or not  | Asks if player wants to quit the game | stops the game | option n to restart the game  |
+| Thank you  | A message to thank player | Thank you for playing message shows up | As expected | n/a |
+
+
 ---
 # **♣ Improvement plan** 🔧⚙️
 
@@ -362,6 +385,7 @@ updated trello
 | * Implement Module |
 | * Implement a login and Database system to save multiple players  scores in leaderboard |
 | * Add more test coverage|
+| * Display leaderboard after each round and show how many rounds left | 
    
 
 ---
