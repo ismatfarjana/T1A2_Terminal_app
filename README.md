@@ -3,46 +3,8 @@
 ---
 
 # README
-# ♣ **Development story**📓🔨
----
-### **♣:memo: List of ideas**  
----
-*💡= idea, 🔵= description,  🍎= reason for not selecting, 🍏= reason for selecting*
 
 
-
-#### 💡  BMI(Body Mass Index) calculator 💪
-🔵BMI is one type of tool to help health professionals assess the risk for chronic disease by dividing the weight in kg and height in meter squared.
-
-🍎Does not have that much complexity that this project requires. It only takes two integers as input and does a simple calculation and gives regarding information for different weight, mainly a string based app.
-#### 💡  Barefoot calculator 💸💰💲
-🔵It is a terminal application inspired by the book "The barefoor investor" by Scott Pape.
-
-🍎Does not have that much complexity that this project requires. It only takes one integers as input and does a few simple calculations, sends money management plans, mainly a string based app.
-
-#### 💡  Snake-ladder game :snake: 🎲
-🔵 An ancient Indian board game played between two or more players on a gameboard having numbered, gridded squares.
-
-🍎It will require 3 to 4 weeks of time for me to build the complex structure of a snake ladder though I will work on it in as a coding skill practice project.
-
-#### 💡  Sudoku puzzle
-🔵A logic-based, combinatorial number-placement puzzle which could be a beautiful project.
-
-🍎Requires lots of time and logical understanding to build it.
-
-#### 💡 Number guessing game 🔢
-🔵 A simple number guessing game against computer .
-
-🍎  It was not challaging enough to fulfill the requirements.
-
-#### 💡  Tic-Tac-Toe ✅ **Final project  :rocket:**
-🔵 Tic-tac-toe is a game where two players take turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
-
-🍏 The time frame and the challange of this seemed perfect if properly done. So I choose this classic game.
-        
-        
-
----
 # ♣ 📜 **About The project 🤔**
 ---
 ####  💁🏻 What is it❓
@@ -91,7 +53,47 @@ T1A2_Terminal_app/src`
 * After each round name of the **winner** 👑 will be shown.
 * After finishing all rounds **Leaderboard** 🏁 will appear which will show if there is a **WINNER** 🎉 or it is a **DRAW** 👻
 
+---
 
+# ♣ **Development story**📓🔨
+
+### **♣:memo: List of ideas**  
+---
+*💡= idea, 🔵= description,  🍎= reason for not selecting, 🍏= reason for selecting*
+
+
+
+#### 💡  BMI(Body Mass Index) calculator 💪
+🔵BMI is one type of tool to help health professionals assess the risk for chronic disease by dividing the weight in kg and height in meter squared.
+
+🍎Does not have that much complexity that this project requires. It only takes two integers as input and does a simple calculation and gives regarding information for different weight, mainly a string based app.
+#### 💡  Barefoot calculator 💸💰💲
+🔵It is a terminal application inspired by the book "The barefoor investor" by Scott Pape.
+
+🍎Does not have that much complexity that this project requires. It only takes one integers as input and does a few simple calculations, sends money management plans, mainly a string based app.
+
+#### 💡  Snake-ladder game :snake: 🎲
+🔵 An ancient Indian board game played between two or more players on a gameboard having numbered, gridded squares.
+
+🍎It will require 3 to 4 weeks of time for me to build the complex structure of a snake ladder though I will work on it in as a coding skill practice project.
+
+#### 💡  Sudoku puzzle
+🔵A logic-based, combinatorial number-placement puzzle which could be a beautiful project.
+
+🍎Requires lots of time and logical understanding to build it.
+
+#### 💡 Number guessing game 🔢
+🔵 A simple number guessing game against computer .
+
+🍎  It was not challaging enough to fulfill the requirements.
+
+#### 💡  Tic-Tac-Toe ✅ **Final project  :rocket:**
+🔵 Tic-tac-toe is a game where two players take turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
+
+🍏 The time frame and the challange of this seemed perfect if properly done. So I choose this classic game.
+        
+        
+---
 
 ####  
 ---
@@ -303,7 +305,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ![](https://i.imgur.com/UTjR1GT.jpg)
 
-- [x] Total 9 branches added to github in this one week.
+- [x] Total 9 branches added to github
 
 ![](https://i.imgur.com/vT8Hm3h.png)
 
