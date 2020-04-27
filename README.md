@@ -9,10 +9,10 @@
 ---
 ####  💁🏻 What is it❓
 
- 🗣A simple terminal interface that will let the user play the classic tic-tac-toe against computer named "Bot". 
+ 🗣A simple terminal interface that will let the user play the classic tic-tac-toe against a computer named "Bot". 
  
  
- :pushpin: **info: Source of Defination**
+ :pushpin: **info: Source of Definition**
  ![](https://i.imgur.com/NMe8gOd.png)
 
 ####  💁🏻 What is the purpose of this project❓
@@ -24,14 +24,14 @@
 **HOW TO INSTALL ⬇**
    ---
 * Open terminal on computer. 💻🖥
-* The prerequisite of this project is to have `ruby` installed in computer. 
+* The prerequisite of this project is to have `ruby` installed on the computer. 
 * If `ruby` is not installed go to this link to find instructions of how to install ruby.
  
- 🔗 ***LINK FOR RUBY INSTALATION FOR DIFFERENT OPERATING SYSTEM***
+ 🔗 ***LINK FOR RUBY INSTALLATION FOR DIFFERENT OPERATING SYSTEM***
 https://www.ruby-lang.org/en/documentation/installation/?fbclid=IwAR1MkBp39ufIWmZHksBjWN3kCE7aYFI3Z17gBpFNSsbiovHFaV2SwpXj6yY
 
 * Run `git clone git@github.com:ismatfarjana/T1A2_Terminal_app.git` 
-* Nevigate to the file by entering `cd 
+* Navigate to the file by entering `cd 
 T1A2_Terminal_app/src` 
 * Run `bundle install` to install all the `gem`
 * Run the file by typing in this pattern `ruby tic_tac_toe.rb <number of rounds>`
@@ -133,6 +133,10 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 
 # **♣ Edge cases**
 
+<details>
+<summary>Click to expand!</summary>
+
+
 ## 🕹
 #### If `<number of rounds>` is not given as arrgument while running the app , number of rounds will be asked again.
 Game will not start untill valid arrgument is passed 🚫
@@ -141,11 +145,12 @@ Game will not start untill valid arrgument is passed 🚫
 ![](https://i.imgur.com/asaMC3J.png)
 
 #### Once the right valid arrgument is passed, the game will start with the WELCOME 💐 message :pancakes: 
- 
+
  **♣ CHECK FOR INPUT DATA TYPE**
 - [x] Value greater then `0`
 - [x] Not a `string`
 - [x] Not a `boolean`
+
 
 ## 🕹
 #### While choosing the places, if player enter any place number which is already taken request for choosing another available place number will show up untill the number place is **available/ valid input**
@@ -158,6 +163,13 @@ Game will not start untill valid arrgument is passed 🚫
  - [x] Value greater then `0` & less then `10`
 - [x] Not a `string`
 - [x] Not a `boolean`
+</details>
+
+
+ 
+
+
+
 ---
 
 
