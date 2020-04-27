@@ -385,7 +385,8 @@ updated trello
 | * Implement Module |
 | * Implement a login and Database system to save multiple players  scores in leaderboard |
 | * Add more test coverage|
-| * Display leaderboard after each round and show how many rounds left | 
+| * Display leaderboard after each round and show how many rounds left |
+| * Give user the option to choose custom sign | 
    
 
 ---
