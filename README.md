@@ -47,7 +47,7 @@ T1A2_Terminal_app/src`
 ---
 * Hitting the enter button will show a **WELCOME** 💐 message and and the program will ask users **name**.😎
 
-* After entering a number each time, **Bot** will take turn and this circle will go on `loop` 🔄 untill the **number of round** is finished.
+* After entering a number each time, **Bot** will take turn and this circle will go on `loop` 🔄 until the **number of round** is finished.
 
 * After each round name of the **winner** 👑 will be shown.
 * After finishing all rounds **Leaderboard** 🏁 will appear which will show if there is a **WINNER** 🎉 or it is a **DRAW** 👻
@@ -61,14 +61,14 @@ T1A2_Terminal_app/src`
 *💡= idea, 🔵= description,  🍎= reason for not selecting, 🍏= reason for selecting*
 
 #### 💡  Barefoot calculator 💸💰💲
-🔵It is a terminal application inspired by the book "The barefoor investor" by Scott Pape.
+🔵It is a terminal application inspired by the book "The barefoot investor" by Scott Pape.
 
-🍎Does not have that much complexity that this project requires. It only takes one integers as input and does a few simple calculations, sends money management plans, mainly a string based app.
+🍎Does not have that much complexity that this project requires. It only takes one integer as input and does a few simple calculations, sends money management plans, mainly a string based app.
 
 #### 💡  Tic-Tac-Toe ✅ **Final project  :rocket:**
 🔵 Tic-tac-toe is a game where two players take turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses.
 
-🍏 The time frame and the challange of this seemed perfect if properly done. So I choose this classic game.
+🍏 The time frame and the challenge of this seemed perfect if properly done. So I choose this classic game.
 
 #### Other Ideas
 Other application ideas were considered (such as: a BMI calculator 💪, Snakes and Ladders :snake: 🎲, Sudoku etc) but were abandoned due to complexity and time constraints
@@ -84,12 +84,12 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 :pushpin: 
 ![](https://i.imgur.com/AKUNHwL.png)
 
-#### 🖼️ 💁 Returning **WELCOME** message with question asking users name. 
+#### 🖼️ 💁 Returning **WELCOME** message with a question asking the users name. 
 :pushpin: 
 ![](https://i.imgur.com/dPcWyuC.png)
 
 
-#### 🖼️ 💁The program shows the hard coded sign chossen for each player: 
+#### 🖼️ 💁The program shows the hard coded sign chosen for each player: 
 **USER(⛹️) Vs Bot(🤖)**
 :pushpin: 
 ![](https://i.imgur.com/nHoaUsQ.png)
@@ -98,7 +98,7 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 ####  🖼️ 💁Empty board shows up with a instruction for choosing the place and entering one number from 1 to 9
 :pushpin: 
 ![](https://i.imgur.com/gjjFxYv.png)
-#### 🖼️ 💁Showes both players choosen number
+#### 🖼️  💁Shows both players chosen number
 :pushpin: 
 ![](https://i.imgur.com/0IF5qXs.png)
 
@@ -106,7 +106,8 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 :pushpin: 
 ![](https://i.imgur.com/2qBFYDY.png)
 
-#### 🖼️ 💁Play goes on until one of the perticipent wins the round. After that 🏅winners name 🏅 for correesponding round is published.
+#### 🖼️ 💁Play goes on until one of the participants wins the round.After that 🏅winner's name for the corresponding round is published.
+
 :pushpin: 
 ![](https://i.imgur.com/gyomHve.png)
 
@@ -138,22 +139,22 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 
 
 ## 🕹
-#### If `<number of rounds>` is not given as arrgument while running the app , number of rounds will be asked again.
-Game will not start untill valid arrgument is passed 🚫
-**In this case arrgument passed on must be an `Integer`**
+#### If `<number of rounds>` is not given as an argument while running the app , the number of rounds will be asked again.
+Game will not start until valid argument is passed 🚫
+**In this case argument passed on must be an `Integer`**
 :round_pushpin: 
 ![](https://i.imgur.com/asaMC3J.png)
 
-#### Once the right valid arrgument is passed, the game will start with the WELCOME 💐 message :pancakes: 
+#### Once the right valid argument is passed, the game will start with the WELCOME 💐 message :pancakes: 
 
  **♣ CHECK FOR INPUT DATA TYPE**
-- [x] Value greater then `0`
+- [x] Value greater than `0`
 - [x] Not a `string`
 - [x] Not a `boolean`
 
 
 ## 🕹
-#### While choosing the places, if player enter any place number which is already taken request for choosing another available place number will show up untill the number place is **available/ valid input**
+#### While choosing the places, if player enter any place number which is already taken request for choosing another available place number will show up until the number place is **available/ valid input**
 :round_pushpin: 
 ![](https://i.imgur.com/9cwzs99.png)
 
@@ -192,8 +193,8 @@ Game will not start untill valid arrgument is passed 🚫
 ### **DAY 1 (20 April) 😎**
 
 - [x] The Assessment was published.
-- [x] Thinking and and narrowing down my ideas of projects.
-- [x] Learnt about trello and how to use it.
+- [x] Thinking and narrowing down my ideas of projects.
+- [x] Learn about trello and how to use it.
 - [x] Built my first trello board. 
 - [x] Added few lists and cards
 
@@ -207,18 +208,18 @@ Game will not start untill valid arrgument is passed 🚫
 ### **DAY 2 (21 April) 🧐**
 
 - [x] Finalized idea tic-tac-toe. 
-- [x] Scratched a game flow chart to make it reasonably working
+- [x] Scratched a game flowchart to make it reasonably working
 
 ![](https://i.imgur.com/vrt6gSS.png)
 
 
 ### **DAY 3 (22 April) 🧐**
 
-- [x] Accoding to the requirements of the asessmnet created an empty directory and a github repository.
+- [x] According to the requirements of the assessment created an empty directory and a github repository.
 
 ![](https://i.imgur.com/aK1i9XV.png)
 
-- [x] Created README file to start writting down 
+- [x] Created README file to start writing down 
 
 ![](https://i.imgur.com/2Z6HjUD.png)
 
@@ -240,10 +241,10 @@ Game will not start untill valid arrgument is passed 🚫
 ### **DAY 4 (23 April) 🧐**
 
 - [x] Keep updating my planning and keeping record of it in trello.
-- [x] Created diffrent branches and wrote code for each features:
+- [x] Created different branches and wrote code for each features:
 > player class and tests : Model
 > leaderboard class and tests : Model
-> operator class : Veiw and Controller
+> operator class : View and Controller
 > board class and tests : Model
 > game class and tests : Model
 > place class and tests : Model
@@ -277,7 +278,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ![](https://i.imgur.com/n7QMSsJ.jpg)
 
-- [x] Improved code to run the game for first time to check if it works as expected. At this point it was supposed to take signs from user and place it in the board.
+- [x] Improved code to run the game for the first time to check if it works as expected. At this point it was supposed to take signs from the user and place it on the board.
 
 ![](https://i.imgur.com/S3S63PA.png)
 
@@ -288,7 +289,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 6 (25 April) 😅**
 
-- [x] Improving code to fix the errors.Like, for the last place I couldnot enter the place number because it was returning empty string. FIXED IT.
+- [x] Improving code to fix the errors.Like, for the last place I couldn't enter the place number because it was returning an empty string. FIXED IT.
 
 ![](https://i.imgur.com/0pepbTP.png)
 
@@ -299,7 +300,7 @@ Game will not start untill valid arrgument is passed 🚫
 
 ### **DAY 7 (26 April) 😅**
 
-- [x] Made peresentation file, finised readme file.
+- [x] Made presentation file, finished readme file.
 
 ![](https://i.imgur.com/UTjR1GT.jpg)
 
@@ -332,7 +333,7 @@ updated trello
 
 ## Game
 
-- Added unit tests to test Game to provide number of rounds left to finish the game and update rounds when players finish a round.
+- Added unit tests to test Game to provide a number of rounds left to finish the game and update rounds when players finish a round.
 
 ## Place
 
@@ -340,14 +341,15 @@ updated trello
 
 ## Board
 
-- Added unit tests to test board has enough places.
+- Added unit tests to test that board has enough places.
 - Tested that board can place player sign when a player choose a place
-- Tested that board can calculate winning pattern when a player has one.
+- Tested that the board can calculate the winning pattern when a player has one.
+
 
 ## Leaderboard
 
-- Added unit tests to test loeaderboard returns sorted players list based on their scores.
-- Tested that leaderboard returns winner's name.
+- Added unit tests to test leaderboard returns sorted players list based on their scores.
+- Tested that the leaderboard returns the winner's name.
 - Tested that leaderboard returns a winner when there is a winner.
 ---
 # **♣ Improvement plan** 🔧⚙️
@@ -358,7 +360,7 @@ updated trello
 | ------------------ | 
 | * Making code DRY |
 | * Implement Module |
-| * Implement a log in and Database system to save multiple players  scores in leaderboard |
+| * Implement a login and Database system to save multiple players  scores in leaderboard |
 | * Add more test coverage|
    
 
