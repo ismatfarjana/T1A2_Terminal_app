@@ -72,17 +72,13 @@ T1A2_Terminal_app/src`
 
 #### Other Ideas
 Other application ideas were considered (such as: a BMI calculator 💪, Snakes and Ladders :snake: 🎲, Sudoku etc) but were abandoned due to complexity and time constraints
-
-
-        
-        
----
-
-####  
+ 
 ---
 # **♣ Short walk through the project 🍰**
  Let's have a quick ride 
-
+ 
+ <details>
+<summary> Click to expand!</summary>
 #### 🖼️ 💁 Running the app with `ruby <filename> <number of round> `
 
 :pushpin: 
@@ -130,6 +126,11 @@ Other application ideas were considered (such as: a BMI calculator 💪, Snakes 
 ![](https://i.imgur.com/L8pneFG.png)
 
 
+</details>
+
+
+
+
 # **♣ Edge cases**
 
 ## 🕹
@@ -172,7 +173,10 @@ Game will not start untill valid arrgument is passed 🚫
 
 # ♣  **Project management plan  🚧**
 > day to day work with terminal screen shots and trello
----
+
+<details>
+<summary>Click to expand!</summary>
+
 ### **DAY 1 (20 April) 😎**
 
 - [x] The Assessment was published.
@@ -186,7 +190,6 @@ Game will not start untill valid arrgument is passed 🚫
 - [x] Listed my ideas in one card
 
 ![](https://i.imgur.com/Q88WEyH.jpg)
-
 
 
 ### **DAY 2 (21 April) 🧐**
@@ -220,6 +223,7 @@ Game will not start untill valid arrgument is passed 🚫
 ![](https://i.imgur.com/DqdTRMn.png)
 
 ![](https://i.imgur.com/i28qN8j.png)
+
 
 ### **DAY 4 (23 April) 🧐**
 
@@ -270,7 +274,6 @@ Game will not start untill valid arrgument is passed 🚫
 ![](https://i.imgur.com/sYnK2Mf.png)
 
 
-
 ### **DAY 6 (25 April) 😅**
 
 - [x] Improving code to fix the errors.Like, for the last place I couldnot enter the place number because it was returning empty string. FIXED IT.
@@ -298,6 +301,8 @@ Game will not start untill valid arrgument is passed 🚫
 updated trello
 
 ![](https://i.imgur.com/MyYd4qQ.jpg)
+
+</details>
 
 ---
 
@@ -347,3 +352,4 @@ updated trello
 
 ---
 🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼
+
