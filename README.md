@@ -21,8 +21,7 @@
 ####  💁🏻 How it works❓
 
 🗣 
-**User needs to follow the instructions below**
-   **To start this project ⬇**
+**HOW TO INSTALL ⬇**
    ---
 * Open terminal on computer. 💻🖥
 * The prerequisite of this project is to have `ruby` installed in computer. 
