@@ -374,6 +374,17 @@ updated trello
 | Thank you  | A message to thank player | Thank you for playing message shows up | As expected | n/a |
 
 
+## ♠ Bug fixing
+
+#### 🐛 BUG
+- Whenever the game required to get the last empty place filled by player, it was breaking because computer was trying to find a place a sign when there was no empty place left.
+
+
+
+![](https://i.imgur.com/7a1yO31.png)
+
+#### 🔫 Fixed it
+- Added a method to find out avaiable empty space
 ---
 # **♣ Improvement plan** 🔧⚙️
 
@@ -385,8 +396,7 @@ updated trello
 | * Implement Module |
 | * Implement a login and Database system to save multiple players  scores in leaderboard |
 | * Add more test coverage|
-| * Display leaderboard after each round and show how many rounds left |
-| * Give user the option to choose custom sign | 
+| * Display leaderboard after each round and show how many rounds left | 
    
 
 ---
